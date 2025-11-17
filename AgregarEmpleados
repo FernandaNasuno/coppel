@@ -1,0 +1,11 @@
+INSERT INTO [dbo].[Empleado] ([nombre], [apellidoP], [apellidoM], [fechaNacimiento], [RFC], [centroTrabajo], [puesto], [descripcionPuesto], [directivo]) VALUES 
+(N'Laura     ', N'Gonzalez  ', N'Martinez  ', N'1990-05-12', N'LGM90512  ', N'000301', 4, N'Vendedora de ropa', 0),
+(N'Pedro     ', N'Lopez     ', N'Santos    ', N'1988-03-22', N'PLS880322 ', N'000302', 5, N'Cajero principal', 0),
+(N'Lucia     ', N'Ramirez   ', N'Flores    ', N'1992-07-18', N'LRF920718 ', N'000303', 6, N'Gerente de tienda', 1),
+(N'Carlos    ', N'Mendez    ', N'Vega      ', N'1985-11-30', N'CMV851130 ', N'050001', 7, N'Jefe de almacén', 0),
+(N'Andrea    ', N'Castillo  ', N'Rios      ', N'1994-09-15', N'ACR940915 ', N'050002', 8, N'Asistente administrativo', 0),
+(N'Luis      ', N'Navarro   ', N'Gomez     ', N'1991-01-05', N'LNG910105 ', N'050003', 9, N'Supervisor de piso', 1),
+(N'Fernanda  ', N'Ruiz      ', N'Lopez     ', N'1993-04-20', N'FRL930420 ', N'060001', 10, N'Encargada de limpieza', 0),
+(N'Jorge     ', N'Vargas    ', N'Morales   ', N'1989-08-08', N'JVM890808 ', N'060002', 11, N'Promotor de muebles', 0),
+(N'Natalia   ', N'Paredes   ', N'Jimenez   ', N'1995-12-25', N'NPJ951225 ', N'060003', 12, N'Seguridad en tienda', 0),
+(N'Victor    ', N'Zamora    ', N'Castro    ', N'1990-06-10', N'VZC900610 ', N'070001', 13, N'Analista de datos', 1);
