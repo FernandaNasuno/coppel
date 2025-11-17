@@ -1,0 +1,11 @@
+INSERT INTO [dbo].[centroTrabajo] VALUES 
+(N'000301', N'Tienda Reforma Ropa', N'Culiacan'),
+(N'000302', N'Tienda Reforma Muebles', N'Culiacan'),
+(N'000303', N'Tienda Reforma Cajas', N'Culiacan'),
+(N'050001', N'Tienda Obregón Ropa', N'Hermosillo'),
+(N'050002', N'Tienda Obregón Muebles', N'Hermosillo'),
+(N'050003', N'Tienda Obregón Cajas', N'Hermosillo'),
+(N'060001', N'Tienda Centro Ropa', N'Mazatlán'),
+(N'060002', N'Tienda Centro Muebles', N'Mazatlán'),
+(N'060003', N'Tienda Centro Cajas', N'Mazatlán'),
+(N'070001', N'Tienda Norte Ropa', N'Los Mochis');
