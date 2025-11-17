@@ -1,0 +1,11 @@
+INSERT INTO [dbo].[puestos] VALUES 
+(4, N'Vendedor', N'Atiende clientes y realiza ventas'),
+(5, N'Cajero', N'Maneja caja registradora y pagos'),
+(6, N'Gerente de tienda', N'Supervisa operaciones generales'),
+(7, N'Jefe de almacén', N'Controla inventario y logística'),
+(8, N'Asistente administrativo', N'Apoya en tareas de oficina'),
+(9, N'Supervisor de piso', N'Coordina personal en área de ventas'),
+(10, N'Encargado de limpieza', N'Mantiene limpieza en tienda'),
+(11, N'Promotor', N'Promueve productos y ofertas'),
+(12, N'Guardia de seguridad', N'Vigila instalaciones'),
+(13, N'Analista de datos', N'Procesa y analiza información comercial');
